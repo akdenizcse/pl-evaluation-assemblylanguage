@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In a computer, all processes are executed by a processor. Each processor has an individual language called _machine language_. The processor understands only that language, and you make contact with the processor by using that language. However, that machine language is hard to learn and use. That is why some software was developed to translate a language that is understood by people into the machine language. This software is called an _assembler_. The most important difference between assembler and compiler is that assembler makes the oneto-one conversion. They read the whole code and translate that code intoto a meaningful program.  
+In a computer, all processes are executed by a processor. Each processor has an individual language called *machine language*. The processor understands only that language, and you make contact with the processor by using that language. However, that machine language is hard to learn and use. That is why some software was developed to translate a language that is understood by people into the machine language. This software is called an *assembler*. The most important difference between assembler and compiler is that assembler makes the one-to-one conversion. They read the whole code and translate that code intoto a meaningful program.  
 
 One of these assembler languages is **Assembly**. Assembly is a low-level programming language. That language, unlike high-level programming languages that are often platformindependent, is closely tied to a target computer architecture, and this is computer specific.
 
