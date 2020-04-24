@@ -142,7 +142,8 @@ Four 32-bit data registers are used for arithmetic, logical, and other operation
              RCX         |        ECX        |        CX         |        CL
              RDX         |        EDX        |        DX         |        DL
              RSI         |        ESI        |        SI         |        SIL
-             RDI         |        EDI        |        DI         |        DIL                                                                        RBP         |        EBP        |        BP         |        BPL
+             RDI         |        EDI        |        DI         |        DIL 
+             RBP         |        EBP        |        BP         |        BPL
              RSP         |        ESP        |        SP         |        SPL
     
   
